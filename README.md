@@ -1,3 +1,22 @@
+<!--
+ Copyright (C) 2022 Code for Vegas Foundation
+ 
+ This file is part of ov-open-transit.
+ 
+ ov-open-transit is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ 
+ ov-open-transit is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public License
+ along with ov-open-transit.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
 # Open Transit Overview
 
 The goal of this project is to enable development of practical applications of public transit data tied to physical transit systems at city scale.
@@ -65,7 +84,7 @@ Tools for consumers of trarnsit services should consider the following:
 
 * Accuracy and reliability. Trusting information, that it is correct, is essential.
 * Usability, including a user/rider experience that is useful in real time (eg when attempting to catch THIS bus)
-* Accessibility, including 
+* Accessibility, including
   * appropriate WAI-ARIA and visual attributes compatible with a variety of eye sight limitations
   * audio components and screen-reader compatibility
 * Language flexibility with i18n and l10n considerations
