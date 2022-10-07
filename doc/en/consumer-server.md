@@ -27,6 +27,8 @@ In some cases, some consumer data may be useful to Operations Staff (Controllers
 
 Consumer privacy is paramount. While there are some scenarios where Consumer data is going to be identifiable (eg payment information, email address, phone number for SMS, etc), it is critical to design all data retention and access schemes to avoid correlation of Consumer identity and location, as well as identity and schedule, by default. While it is useful to know that A Consumer has a particular schedule and travels regularly from some origin to some destination, with distance to stops and other services included, it is not essential to know the actual identity of that Consumer.
 
+## Specification Details
+
 ## External Reference Materials
 
 Links

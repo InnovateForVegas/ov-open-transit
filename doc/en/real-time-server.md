@@ -25,6 +25,8 @@ We assume that a **Public Transit Controller** (an Operations Staff Member) is o
 
 It is critical to maintain time series data consistency, such that any source data drop-out or general loss must be inserted into the time series as missing data, not dropped entirely. The absence of data is itself data.
 
+## Specification Details
+
 ## External Reference Materials
 
 Links

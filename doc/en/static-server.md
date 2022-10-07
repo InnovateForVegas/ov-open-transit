@@ -25,6 +25,8 @@ We assume that the overall transit system has several completely static and slow
 
 While the data may be mostly static, there will be instances where a static element must be changed temporarily (a bus stop that is blocked due to construction, a route that is altered for a special event or other obstructions, a bike share bike rack that is out of service, etc), it is critical in these cases that elements that might be considered static, that all parties be alerted to changes in situ.
 
+## Specification Details
+
 ## External Reference Materials
 
 Links

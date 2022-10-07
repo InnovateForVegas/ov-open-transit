@@ -27,6 +27,8 @@ The real time data feed must always provide complete information for Consumer us
 
 With this in mind, the Real Time Estimator should always generate an estimated location based on all available data to a given point in time, to provide some estimated location in the event of real time transmission interruption from the vehicle, and such estimated location data should be marked as estimated until such time as real data is once again acquired.
 
+## Specification Details
+
 ## External Reference Materials
 
 Links

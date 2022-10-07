@@ -33,6 +33,31 @@ Equally important, the consumer client must be accessible, and must not depend o
 
 The consumer client tools should be built with the assumption that they will be used in the worst cases, including bad weather, late or missing vehicles when consumer is late for an important trip to school, work, etc, late at night or early in the morning when people are prone to frustration, and so on. All consumer client tools, and the services that enable them, must be architected to make an informed journey the hightest priority at all times, accessible and correct, and enabling the consumer to communicate situational details to enable continuous improvement and confidence in the transit system.
 
+## Specification Details
+
+Tools for Consumers of transit services should be designed with considerations of the following:
+
+- Accuracy and reliability. Trusting information, that it is correct, is essential.
+- Usability, including a user/rider experience that is useful in real time (eg when attempting to catch THIS bus)
+- Accessibility, including
+  - appropriate WAI-ARIA and visual attributes compatible with a variety of eye sight limitations
+  - audio components and screen-reader compatibility
+- Language flexibility with i18n and l10n considerations
+
+The current (as of 2022) software client approach taken in the Las Vegas transit area, is to deploy multiple applications, developed by multiple vendors, to accomplish groups of tasks:
+
+- TransitApp for managing schedule and real time update information for the rider
+- RTC Transit Watch to report issues
+- RideRTC to purchase tickets and obtain official RTC SNV information and updates
+- myRTCpara for paratransit services (special accessibility, point-to-point)
+- Club Ride Rewards to offer compensatory rewards for carpooling, etc
+  
+There may be others, and there are website analogs to some of these focus areas.
+
+Consumer client software should consolidate most, if not all of the functionality found in these standalone applications into a single Progressive Web Application (PWA) for example, to enable access to all of these services and more by anyone using transit services, waiting to pick someone up at a transit stop, dropping someone off at a transit stop, visiting Las Vegas from abroad, or commuting daily.
+
+Special Consumer applications may be appropriate in rare circumstances, but a unified approach to Transit Consumer experience is preferable for the Consumer and more easily maintained by the Developers.
+
 ## External Reference Materials
 
 Links

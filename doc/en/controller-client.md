@@ -25,6 +25,8 @@ We assume that a *Public Transit Controller* (Operations Staff) is overseeing da
 
 The ability to access current information from multiple sources and provide a nearly-real-time situation update to any Controller is paramount. Any Controller may need to re-route one or more vehicles, receive information that one or more vehicles have been re-routed due to real-time circumstances, receive information concerning equipment failures or collisions or other route failures, information about shared bike failures or thefts, rider issues… as such, the interfaces for the Controller Client should be optimized for particular situational awareness and render data accordingly.
 
+## Specification Details
+
 ## External Reference Materials
 
 Links

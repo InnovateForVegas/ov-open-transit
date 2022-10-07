@@ -25,6 +25,8 @@ We assume that a *Public Transit Operators* (Drivers, Maintenance, others workin
 
 In the case of an Operator driving a vehicle (a bus or other), driver distraction is to be avoided above all other considerations. At no time should an Operator be required to redirect attention to the Operator Client in such a manner as they are distracted from safely operating the vehicle in motion (or even at rest). It would be possible to implement some Operator interfaces via a control panel with buttons or other devices that would minimize distraction but enable notifications and other interactions.
 
+## Specification Details
+
 ## External Reference Materials
 
 Links
