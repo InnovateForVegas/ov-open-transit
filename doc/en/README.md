@@ -32,4 +32,5 @@ The specification is broken down along those component lines with the following 
 | [Real Time Server](real-time-server.md)          | Back end real time data service                 |
 | [Real Time Estimator](real-time-estimator.md)    | Estimate real time next-stop times              |
 | [Consumer Server](consumer-server.md)            | Rider-facing services, data stores, stats       |
+| [Open Data](open-data.md)                        | Making Open Transit data Open Data              |
 | [General References](references.md)              | General reference information, links, etc       |
