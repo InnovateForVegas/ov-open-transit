@@ -38,20 +38,6 @@ This is a large project with multiple components. There are existing tools, prot
 
 The specification(s) for the various components and goals of this project are located in the [Doc](doc/README.md) directory. Note that there should be localized versions of the specification documents as needed in this subdirectory.
 
-### Transit Data Service
+## Project Backlog
 
-Essential requirements are to capture and publish stable and realtime data about all things transit, mostly public mass transit but generic enough to support variants (point-to-point travel, bike share, monorail, etc etc).
-
-The open standard for serving transit data is the Google Transit Data Feed (GTDF) and the GTDF-RT for publishing real-time updating equipment locations (ie moving buses). The supported GTDF features and associated data are documented on the developer page at the [RTC website](https://www.rtcsnv.com/ways-to-travel/transit-services/for-developers/), also listed below in the *References* section.
-
-At present the local implementation of GTDF-based services is entirely depedant on an external company to capture real time equipment data and form the GTDF-RT feed, and maintain the GTDF published data set. This limits the amount of data that can be tied directly to route, equipment, and operating systems for general use.
-
-A proposal is made here, to augment the standard GTDF data already available via outsourced third parties, with rider data to capture not only rider feedback, but ideal routing statistics (where are people riding from and to, and when), failure statistics (including non-ideal routes forced upon riders, individual route or operator issues, equipment issues, etc).
-
-Thus the Open Transit Data Service will provide the GTDF data already available (initially received from the third party vendor already constructing the stable and realtime components) and additional data attached to these feeds to enable additional client and rider services.
-
-## References
-
-<https://www.openapis.org/>
-
-<https://www.rtcsnv.com/ways-to-travel/transit-services/for-developers/>
+As this project adds component repositories, specific GitHub issues may be opened against individual repos for relevant bugs, missing features, and so on. Prior to the relevant repository existing, an issue backlog may be created against this overview repository. When an appropriate component repository has been created, an issue may be created against the repository with a reference to the issue opened against this overview repository (Double-linking is encouraged).
