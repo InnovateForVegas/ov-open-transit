@@ -104,7 +104,7 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
         }
         else
         {
-            return new String("On Time, In Route");
+            return new String("On Time, On Route");
         }
     }
 ---
