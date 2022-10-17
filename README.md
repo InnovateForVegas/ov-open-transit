@@ -21,7 +21,9 @@
 
 The goal of this project is to enable development of practical applications of public transit data tied to physical transit systems at city scale.
 
-Open Data should be captured and stored in meaningfully-segregated tables, using geographical information systems (GIS) best practices wherever possible, or enabling equivalent best practice access and maniupulation.
+Open Data should be captured and stored in meaningfully-segregated tables, using geographical information systems (GIS) best practices wherever possible, or enabling equivalent best practice access and manipulation.
+
+Ultimately the goal of this project is to develop a functional transit platform that serves consumers of transit services (riders of buses, bikes, etc), operators of transit services (bus drivers, maintenance personnel et al.) and controllers (operations staff overseeing transit system flow and function). Making use of real time data for planning transit trips in the present time, and capturing and using data for continuous improvement and evaluation of the transit system on the whole from a variety of perspectives.
 
 ## Project Policies
 
