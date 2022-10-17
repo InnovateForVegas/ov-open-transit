@@ -88,6 +88,25 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
     - Consumer is presented with updated arrival estimates for each of pre-selected routes and stops to inform consumer of delays or cancellations in real time.
     - Consumer is offered alternate routes based on potential delays and cancellations with a known destination and potential waypoints.
   
+  public String status(Route route)
+    {
+        if (route.isDelayed())
+        {
+            return new String("Delayed");
+        }
+        else if (route.isCanceled())
+        {
+            return new String("Canceled");
+        }
+        else if (route.isUnavailable())
+        {
+            return new String("Unavailable");
+        }
+        else
+        {
+            return new String("On Time, In Route");
+        }
+    }
 ---
 
 - **Card**: As a Consumer, I would like to be able to provide feedback to the company regarding my transit experience at any particular time and place.
