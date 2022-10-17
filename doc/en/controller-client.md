@@ -50,4 +50,6 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
     - Controller is able to observe real time data from Real Time Server, feedback from Consumer Server, and status indicators from Operators to assess a current high level transit status.\
     - Controller is able to observe a single vehicle, single stop, single map grid, and so on for more focused and detailed assessments.
 
+- **Card**: As a Controller, I need to know the number of clients needing to utilize the service.
+  
 ---
