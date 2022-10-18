@@ -19,6 +19,8 @@
 
 # Open Transit Overview
 
+This Overview repository is a specification and documentation component of the Open Transit Project. Please do not add code or other resources to this repository.
+
 The goal of this project is to enable development of practical applications of public transit data tied to physical transit systems at city scale.
 
 Open Data should be captured and stored in meaningfully-segregated tables, using geographical information systems (GIS) best practices wherever possible, or enabling equivalent best practice access and manipulation.
