@@ -36,4 +36,24 @@ public class Route
     {
          return unavailible;
     }
+    
+    public String status()
+    {
+        if (isDelayed())
+        {
+            return new String("Delayed");
+        }
+        else if (isCanceled())
+        {
+            return new String("Canceled");
+        }
+        else if (isUnavailable())
+        {
+            return new String("Unavailable");
+        }
+        else
+        {
+            return new String("On Time, on Route");
+        }
+    }
 }
