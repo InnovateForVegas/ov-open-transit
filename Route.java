@@ -56,4 +56,8 @@ public class Route
             return new String("On Time, on Route");
         }
     }
+    public String toString()
+    {
+        status();
+    }
 }
