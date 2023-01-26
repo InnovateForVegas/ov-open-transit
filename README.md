@@ -39,15 +39,3 @@ Unless otherwise and specifically indicated with replacement files in this repos
 All Innovate for Vegas Foundation projects, whether CodeFor or CreateFor, assume contributors and collaborators are familiar with the HOWTOs that detail such things as use of GitHub, the difference between CodeFor and CreateFor parts of our organization, and our approach to Agile for Volunteers (or Volunteer Agile) which will, like all our projects, be a collaborative work in progress. These, coupled with the Contributing document linked above, are important and you should be familiar with them before diving in.
 
 * [Organization HOWTOs](https://github.com/InnovateForVegas/doc-org-howtos)
-
-## General Focus Areas
-
-This is a large project with multiple components. There are existing tools, protocols, and data formats already in use based on open standards and proprietary applications, the aim is to augment and, eventually, replace these proprietary applications with options developed locally.
-
-## Specification Documents
-
-The specification(s) for the various components and goals of this project are located in the [Doc](doc/README.md) directory. Note that there should be localized versions of the specification documents as needed in this subdirectory.
-
-## Project Backlog
-
-As this project adds component repositories, specific GitHub issues may be opened against individual repos for relevant bugs, missing features, and so on. Prior to the relevant repository existing, an issue backlog may be created against this overview repository. When an appropriate component repository has been created, an issue may be created against the repository with a reference to the issue opened against this overview repository (Double-linking is encouraged).
