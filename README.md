@@ -34,6 +34,12 @@ Unless otherwise and specifically indicated with replacement files in this repos
 * [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
 * [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
 
+## Organization Workflow
+
+All Innovate for Vegas Foundation projects, whether CodeFor or CreateFor, assume contributors and collaborators are familiar with the HOWTOs that detail such things as use of GitHub, the difference between CodeFor and CreateFor parts of our organization, and our approach to Agile for Volunteers (or Volunteer Agile) which will, like all our projects, be a collaborative work in progress. These, coupled with the Contributing document linked above, are important and you should be familiar with them before diving in.
+
+* [Organization HOWTOs](https://github.com/InnovateForVegas/doc-org-howtos)
+
 ## General Focus Areas
 
 This is a large project with multiple components. There are existing tools, protocols, and data formats already in use based on open standards and proprietary applications, the aim is to augment and, eventually, replace these proprietary applications with options developed locally.
