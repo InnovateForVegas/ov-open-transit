@@ -44,7 +44,7 @@ Capture, store, and expose these data:
 - Real time location
 - Privacy-wrapped Consumer feedback
 
-**Note**: In cases where a Consumer reports an issue, that issue may be reported via social media, via a voice phone call, or using at least one specially-developed mobile application for RTC SNV called *Transit Watch* to capture the issue report. These reports, as well as other statistical and operational data, are published either in GTDF content, or sometimes not made available at all. Transparency is lost in these scenarios.
+**Note**: In cases where a Consumer reports an issue, that issue may be reported via social media, via a voice phone call, or using at least one specially-developed mobile application for RTC SNV called *Transit Watch* to capture the issue report. These reports, as well as other statistical and operational data, are published either in GTFS content, or sometimes not made available at all. Transparency is lost in these scenarios.
 
 Analyze and expose via APIs and published Open Data sets (privacy aware):
 
@@ -59,7 +59,9 @@ These are not exhaustive, as public adoption of the Open Transit platform progre
 
 ## External Reference Materials
 
-Links
+- [RTC website](https://www.rtcsnv.com/ways-to-travel/transit-services/for-developers/)
+- [Google Transit References (GTFS)](https://developers.google.com/transit/site-map)
+- [GTFS Standard Site](https://gtfs.org/)
 
 ## User Stories
 

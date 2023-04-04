@@ -29,7 +29,7 @@ The ability to access current information from multiple sources and provide a ne
 
 ## External Reference Materials
 
-Links
+- [RTC website](https://www.rtcsnv.com/ways-to-travel/transit-services/for-developers/)
 
 ## User Stories
 

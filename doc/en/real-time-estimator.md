@@ -19,7 +19,7 @@
 
 # Open Transit Real Time Estimator
 
-We assume that multiple transit vehicles are able to transmit real-time location information using a reliable means of communication to a central server which can capture and analyze all vehicle data at 1-second resolution, estimate next-stop arrival times, and publish the data using at least the Real Time Google Transit Data Feed format, as is used today by various consumers (including Google, TransitApp, and others).
+We assume that multiple transit vehicles are able to transmit real-time location information using a reliable means of communication to a central server which can capture and analyze all vehicle data at 1-second resolution, estimate next-stop arrival times, and publish the data using at least the Real Time General Transit Feed Specification (GTFS-RT) format, as is used today by various consumers (including Google, TransitApp, and others).
 
 ## Highest Priority Considerations
 
@@ -31,7 +31,9 @@ With this in mind, the Real Time Estimator should always generate an estimated l
 
 ## External Reference Materials
 
-Links
+- [RTC website](https://www.rtcsnv.com/ways-to-travel/transit-services/for-developers/)
+- [Google References on Transit (GTFS)](https://developers.google.com/transit/site-map)
+- [GTFS Standard Site](https://gtfs.org/)
 
 ## User Stories
 

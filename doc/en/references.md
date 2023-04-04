@@ -23,6 +23,7 @@ Possibly-useful links, definitions, and other information relevant to any part o
 
 ## Developer Resources
 
-[OpenAPI Site](https://www.openapis.org/)
-
-[RTC SNV Developer Info](https://www.rtcsnv.com/ways-to-travel/transit-services/for-developers/)
+- [OpenAPI Site](https://www.openapis.org/)
+- [RTC SNV Developer Info](https://www.rtcsnv.com/ways-to-travel/transit-services/for-developers/)
+- [Google References on Transit (GTFS)](https://developers.google.com/transit/site-map)
+- [GTFS Standard Site](https://gtfs.org/)

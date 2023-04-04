@@ -60,7 +60,7 @@ Special Consumer applications may be appropriate in rare circumstances, but a un
 
 ## External Reference Materials
 
-Links
+- [RTC website](https://www.rtcsnv.com/ways-to-travel/transit-services/for-developers/)
 
 ## User Stories
 

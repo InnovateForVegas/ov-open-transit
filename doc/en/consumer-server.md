@@ -31,7 +31,7 @@ Consumer privacy is paramount. While there are some scenarios where Consumer dat
 
 ## External Reference Materials
 
-Links
+- [RTC website](https://www.rtcsnv.com/ways-to-travel/transit-services/for-developers/)
 
 ## User Stories
 

@@ -29,7 +29,7 @@ In the case of an Operator driving a vehicle (a bus or other), driver distractio
 
 ## External Reference Materials
 
-Links
+- [RTC website](https://www.rtcsnv.com/ways-to-travel/transit-services/for-developers/)
 
 ## User Stories
 
