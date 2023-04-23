@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Story Template
+name: Story template
+about: Agile Story Template
 title: ''
 labels: Story
 assignees: ''
