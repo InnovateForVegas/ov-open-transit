@@ -65,8 +65,6 @@ These are not exhaustive, as public adoption of the Open Transit platform progre
 
 ## User Stories
 
-Individual stories may be converted into Issues, or consolidated or exploded as needed for development and implementation.
-
 **Terms**:
 
 - **Consumer**: a bus rider, bike share user, and so on.
@@ -75,13 +73,4 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
 - **Company**: a transit company, commission, or other agency overseeing transit services
 - **Developer**: anyone using Open Transit data or interfaces to build new products or services
 
-### Typical Uses
-
-- **Card**: As a Developer, I would like to access Open Transit data with a RESTful API and integrate schedule, route, and real-time transit data into an application platform.
-  - **Conversation**: Modern application and service development depends frequently on the use of eternal API endpoints which are implemented with RESTful access and interchange of data.
-  - **Confirmation**:
-    - Developer is able to access all public Open Transit data using RESTful APIs
-
-Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/21
-
----
+User Stories are implemented as [GitHub Story Issues in the Overview Repository](https://github.com/InnovateForVegas/ov-open-transit/issues)

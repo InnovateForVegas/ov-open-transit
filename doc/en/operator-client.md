@@ -33,8 +33,6 @@ In the case of an Operator driving a vehicle (a bus or other), driver distractio
 
 ## User Stories
 
-Individual stories may be converted into Issues, or consolidated or exploded as needed for development and implementation.
-
 **Terms**:
 
 - **Consumer**: a bus rider, bike share user, and so on.
@@ -42,13 +40,4 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
 - **Controller**: a transit operations staff member, and so on.
 - **Company**: a transit company, commission, or other agency overseeing transit services
 
-### Typical Uses
-
-- **Card**: As an Operator, I need to receive and provide status updates on my route and about my vehicle and passengers throughout a trip from beginning to end of line, minimizing or eliminating any driver distractions in so doing.
-  - **Conversation**: Operators may receive status updates from Controllers via voice radio or perhaps less urgently, via a textual or other visual messaging scheme. Operators may as well need to provide status information to controllers asynchronously, instead of or in addition to voice communications via radio.
-  - **Confirmation**:
-    - Operator is able to send and receive non-distracting, relevant information to and from Controller or related servers and services.
-
-Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/17
-
----
+User Stories are implemented as [GitHub Story Issues in the Overview Repository](https://github.com/InnovateForVegas/ov-open-transit/issues)

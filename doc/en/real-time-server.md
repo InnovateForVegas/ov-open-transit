@@ -45,8 +45,6 @@ Thus the Open Transit Data Service will provide the GTFS data already available 
   
 ## User Stories
 
-Individual stories may be converted into Issues, or consolidated or exploded as needed for development and implementation.
-
 **Terms**:
 
 - **Consumer**: a bus rider, bike share user, and so on.
@@ -54,13 +52,4 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
 - **Controller**: a transit operations staff member, and so on.
 - **Company**: a transit company, commission, or other agency overseeing transit services
 
-### Typical Uses
-
-- **Card**: As a Consumer, I need to know when my bus will arrive so that I can plan my arrival at the bus stop accordingly.
-  - **Conversation**: Each Consumer of transit services has their own journey to make from their actual point of origin to the bus stop at which they will wait for the arrival of their bus.
-  - **Confirmation**:
-    - Consumer is able to determine estimated versus scheduled arrival time for any route at any stop, with statistical information presented in clear terms (% on time, etc)
-
-Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/19
-
----
+User Stories are implemented as [GitHub Story Issues in the Overview Repository](https://github.com/InnovateForVegas/ov-open-transit/issues)

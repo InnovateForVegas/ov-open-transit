@@ -35,8 +35,6 @@ Consumer privacy is paramount. While there are some scenarios where Consumer dat
 
 ## User Stories
 
-Individual stories may be converted into Issues, or consolidated or exploded as needed for development and implementation.
-
 **Terms**:
 
 - **Consumer**: a bus rider, bike share user, and so on.
@@ -44,34 +42,4 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
 - **Controller**: a transit operations staff member, and so on.
 - **Company**: a transit company, commission, or other agency overseeing transit services
 
-### Typical Uses
-
-- **Card**: As a Consumer, I would like to store frequently-used bus route, schedule, and stop information across all of my devices.
-  - **Conversation**: A frequent Consumer of transit services will often make use of the same routes at the same times on specific days of each week, month, etc. By storing that information the Consumer can access these data from a desktop web browser, on their mobile device, or perhaps other means (eg a voice interface on a so-called Smart Speaker).
-  - **Confirmation**:
-    - Consumer is able to access saved usage data via web browser on any device.
-    - Consumer is able to access saved usage data from within a specific application on a supported device.
-
-Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/13
-
----
-
-- **Card**: As a Consumer, I would like to receive notification of specific changes or other information regarding my stored routes across all devices and interfaces.
-  - **Conversation**: A frequent Consumer of transit services will often assume that the same interactions day-to-day will be somewhat consistent and will plan their days and associated travel plans accordingly. These Consumers will benefit from proactive notifications regarding detours, schedule changes, stop changes, and so on, specific to their uses rather than introducing generic alerts and thus distracting noise.
-  - **Confirmation**:
-    - Consumer receives opt-in email, SMS, or other notification of any change to any saved route, stop, schedule, and so on, with enough time to make necessary adjustments to their travel.
-
-Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/14
-
----
-
-- **Card**: As a Consumer, I would like to interact with my transit preferences and information using a Smart Speaker or other non-browser interfaces.
-  - **Conversation**: There will be opportunities into the future to provide Consumers with additional methods of interaction with their transit use and data, to fit into their individual workflows. Integration with a device such as a Smart Speaker not only provides convenient access to personalized transit information for any user with that access method, but it also extends access to these data to a Consumer with impaired vision, in a usable way. A side effect, design for flexible application such as a Smart Speaker, implies design for flexible application for other devices, and thus service to more Consumers in more modes.
-  - **Confirmation**:
-    - A Consumer is able to receive schedule, route, and other pertinent information about their transit use via a Smart Speaker with voice-activated interface.
-    - A Consumer is able to receive a general update on demand of their transit plans on the current day.
-    - A Consumer is able to receive a specific update for a particular day in the future.
-
-Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/15
-
----
+User Stories are implemented as [GitHub Story Issues in the Overview Repository](https://github.com/InnovateForVegas/ov-open-transit/issues)
