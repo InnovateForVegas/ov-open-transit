@@ -82,4 +82,6 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
   - **Confirmation**:
     - Developer is able to access all public Open Transit data using RESTful APIs
 
+Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/21
+
 ---

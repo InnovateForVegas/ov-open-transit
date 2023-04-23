@@ -52,12 +52,16 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
     - Consumer is able to access saved usage data via web browser on any device.
     - Consumer is able to access saved usage data from within a specific application on a supported device.
 
+Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/13
+
 ---
 
 - **Card**: As a Consumer, I would like to receive notification of specific changes or other information regarding my stored routes across all devices and interfaces.
   - **Conversation**: A frequent Consumer of transit services will often assume that the same interactions day-to-day will be somewhat consistent and will plan their days and associated travel plans accordingly. These Consumers will benefit from proactive notifications regarding detours, schedule changes, stop changes, and so on, specific to their uses rather than introducing generic alerts and thus distracting noise.
   - **Confirmation**:
     - Consumer receives opt-in email, SMS, or other notification of any change to any saved route, stop, schedule, and so on, with enough time to make necessary adjustments to their travel.
+
+Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/14
 
 ---
 
@@ -67,5 +71,7 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
     - A Consumer is able to receive schedule, route, and other pertinent information about their transit use via a Smart Speaker with voice-activated interface.
     - A Consumer is able to receive a general update on demand of their transit plans on the current day.
     - A Consumer is able to receive a specific update for a particular day in the future.
+
+Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/15
 
 ---

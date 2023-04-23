@@ -53,4 +53,6 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
   - **Confirmation**:
     - Consumer is able to determine estimated versus scheduled arrival time for any route at any stop, with statistical information presented in clear terms (% on time, etc)
 
+Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/18
+
 ---

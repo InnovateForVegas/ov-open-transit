@@ -80,6 +80,8 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
   - **Confirmation**:
     - Consumer is able to determine estimated versus scheduled arrival time for any route at any stop, with statistical information presented in clear terms (% on time, etc)
 
+Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/7
+
 ---
 
 - **Card**: As a Consumer, I need to know when any of my overall transit route is delayed, canceled, or unavailable to enable adjustment of my travel plan.
@@ -88,6 +90,8 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
     - Consumer is presented with updated arrival estimates for each of pre-selected routes and stops to inform consumer of delays or cancellations in real time.
     - Consumer is offered alternate routes based on potential delays and cancellations with a known destination and potential waypoints.
   
+Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/8
+
 ---
 
 - **Card**: As a Consumer, I would like to be able to provide feedback to the company regarding my transit experience at any particular time and place.
@@ -97,6 +101,8 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
     - Consumer may need to select context for feedback, with accessible and localized interface for that selection. While automatic selection is intriguing, feedback about a bus stop after boarding a bus would become frustrating if the feedback context is auto-selected as Bus, for example, rather than But Stop.
     - Consumer is able to provide feedback and receive acknowledgment of receipt, as well as a method to continue engagement with follow-up, including resolution of any issues (or similar in the case of positive feedback)
 
+Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/9
+
 ---
 
 - **Card**: As a Consumer, I need to use any or all transit services, but I do not speak English.
@@ -104,11 +110,16 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
   - **Confirmation**:
     - Consumer is able to interact with all tools via localized text and visual imagery (icons, etc), where all elements are designed to be WAI-ARIA accessible (assume Consumer does not speak English, does not speak Spanish, and cannot see).
 
+Converted (partially) to https://github.com/InnovateForVegas/ov-open-transit/issues/10
+Converted (additionally) to https://github.com/InnovateForVegas/ov-open-transit/issues/12
+
 ---
 
 - **Card**: As a Consumer, I would like to use one unified tool to interact with transit services on my mobile device and on my desktop computer(s).
   - **Conversation**: Each time an individual is required to install an application on their mobile device, there is a barrier to entry that can be substantial, not to mention the opportunities to confuse and confound. As well, a consumer may sometimes want or need to access transit services from a desktop or laptop computer, or generally access these services from a web browser.
   - **Confirmation**:
     - Consumer is able to access all services and retrieve all information regardless of platform, ie a mobile-friendly or mobile-first website usable from any device with a web browser is the first best option for accessibility across most if not all contexts.
+
+Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/11
 
 ---

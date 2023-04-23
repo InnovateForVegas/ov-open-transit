@@ -49,4 +49,6 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
   - **Confirmation**:
     - Operator is able to send and receive non-distracting, relevant information to and from Controller or related servers and services.
 
+Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/17
+
 ---

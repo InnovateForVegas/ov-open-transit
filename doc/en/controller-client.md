@@ -47,7 +47,9 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
 - **Card**: As a Controller, I need to know the status (location, velocity, capacity) of each vehicle and to see or hear that information in usable and adjustable ways.
   - **Conversation**: A Controller overseeing an operating transit environment must be able to observe all observable data in totality or in faceted or factored views to focus on particular to drill down into a particular situation or scenario.
   - **Confirmation**:
-    - Controller is able to observe real time data from Real Time Server, feedback from Consumer Server, and status indicators from Operators to assess a current high level transit status.\
+    - Controller is able to observe real time data from Real Time Server, feedback from Consumer Server, and status indicators from Operators to assess a current high level transit status.
     - Controller is able to observe a single vehicle, single stop, single map grid, and so on for more focused and detailed assessments.
+
+Converted to https://github.com/InnovateForVegas/ov-open-transit/issues/16
 
 ---

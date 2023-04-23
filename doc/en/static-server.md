@@ -61,4 +61,6 @@ Individual stories may be converted into Issues, or consolidated or exploded as 
   - **Confirmation**:
     - Consumer is able to locate nearest bus stops and correct route schedules with current detour and schedule change information clearly available.
 
+Convert to https://github.com/InnovateForVegas/ov-open-transit/issues/20
+
 ---
