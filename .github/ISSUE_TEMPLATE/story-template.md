@@ -7,16 +7,23 @@ assignees: ''
 
 ---
 
-**Epic**: [Epic]
+**Epic**: [Epic Issue Number]
 
 ### User Story
 
-**Card**: As a , I , so that .
+#### Card
 
-**Conversation**: [Background and Context]
+As a , I , so that .
 
-**Confirmation**: [Indications of successfully solving this story]
+#### Conversation
 
+[Background and Context]
+
+#### Confirmation
+
+[Indications of successfully solving this story]
+
+- [ ] Key Result
 ### Tasks
 
 - [ ] Task 1
